@@ -17,7 +17,7 @@ BK Audio Player plays the songs in your own folders — on your computer, a pend
 - **YouTube** — stream, download or save the sound of videos and whole playlists, live streams too. Downloads can go to a NAS by themselves.
 - **Scheduler** — songs that play by themselves at set times: every day, on chosen days or on a date. The music fades out for them and can carry on afterwards.
 - **Phone, tablet and Stream Deck** — scan a QR code and control the player from any phone or tablet on the same Wi-Fi, nothing to install. Simple web commands for Stream Deck and Companion.
-- **Comfortable** — a mini player that stays on top, four themes (light and dark), bigger text, a right-click menu in File Explorer / Finder, carries on playing after a restart, updates itself on Windows.
+- **Comfortable** — a mini player that stays on top, four themes (light and dark), bigger text, a right-click menu in File Explorer / Finder, carries on playing after a restart, updates itself.
 - **Help built in** — press **F1** in the player: searchable topics with pictures.
 
 ## A closer look
@@ -50,8 +50,8 @@ BK Audio Player plays the songs in your own folders — on your computer, a pend
 **Windows:** run the Setup file. If "Windows protected your PC" appears, click *More info → Run anyway*.
 After that, new versions download by themselves and are installed when you close the app.
 
-**Mac:** open the .dmg and drag BK Audio Player to Applications. The first time, macOS may say it can't check the app for malicious software: open *System Settings → Privacy & Security* and click *Open Anyway* (once). If it ever says the app is damaged, run in Terminal: `xattr -cr "/Applications/BK Audio Player.app"`. The app tells you when a new version is out.
+**Mac:** open the .dmg and drag BK Audio Player to Applications. The first time, macOS may say it can't check the app for malicious software: open *System Settings → Privacy & Security* and click *Open Anyway* (once). If it ever says the app is damaged, run in Terminal: `xattr -cr "/Applications/BK Audio Player.app"`. From version 1.5.14 on, new versions download by themselves and are installed when you quit the app.
 
 ---
 
-This repository only holds the download files and this page (`latest.yml` and `.blockmap` are used by the automatic updates).
+This repository only holds the download files and this page (`latest.yml`, `latest-mac.yml` and `.blockmap` are used by the automatic updates).
