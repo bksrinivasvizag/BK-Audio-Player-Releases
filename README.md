@@ -18,6 +18,7 @@ BK Audio Player plays the songs in your own folders — on your computer, a pend
 - **Scheduler** — songs that play by themselves at set times: every day, on chosen days or on a date. The music fades out for them and can carry on afterwards.
 - **Phone, tablet and Stream Deck** — scan a QR code and control the player from any phone or tablet on the same Wi-Fi, nothing to install. Simple web commands for Stream Deck and Companion.
 - **Comfortable** — a mini player that stays on top, four themes (light and dark), bigger text, a right-click menu in File Explorer / Finder, carries on playing after a restart, updates itself.
+- **Backup** — all your settings in one file: library folders, queue, favourites, playlists, schedules and every option. After Windows or macOS is installed again, or on a new computer, *Restore* puts everything back in one go.
 - **Help built in** — press **F1** in the player: searchable topics with pictures.
 
 ## A closer look
